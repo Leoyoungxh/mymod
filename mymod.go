@@ -4,8 +4,8 @@ import "fmt"
 import "github.com/Leoyoungxh/innermod"
 
 const (
-	haha = "haha"
-	vava = "vava"
+	haha = "hahaha"
+	vava = "vavava"
 )
 
 func Print() {
