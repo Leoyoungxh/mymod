@@ -1,6 +1,7 @@
 package mymod
 
 import "fmt"
+import "github.com/Leoyoungxh/innermod"
 
 const (
 	haha = "haha"
@@ -9,4 +10,5 @@ const (
 
 func Print() {
 	fmt.Println(haha, vava)
+	innermod.Innerfun()
 }
