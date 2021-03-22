@@ -9,6 +9,6 @@ const (
 )
 
 func Print() {
-	fmt.Println(haha, vava)
+	fmt.Println("Version 1.3.0, require innermod 1.0.0")
 	innermod.Innerfun()
 }

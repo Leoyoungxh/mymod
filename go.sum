@@ -1,2 +1,4 @@
-github.com/Leoyoungxh/innermod v0.0.0-20210319025705-79f8ddaaf9d8 h1:CaXrWHCTI0v76TJ7ROKWZYc5AvBeIbJoZbglcOJVvYs=
-github.com/Leoyoungxh/innermod v0.0.0-20210319025705-79f8ddaaf9d8/go.mod h1:u6AL1erIYePyVUJl33yikUvFS8XqGbM54O5AfJWflN4=
+github.com/Leoyoungxh/innermod v1.0.0 h1:xYhqz59cBbReocyagseNVdjqHU5FLP0YX6PdZLgpxzI=
+github.com/Leoyoungxh/innermod v1.0.0/go.mod h1:u6AL1erIYePyVUJl33yikUvFS8XqGbM54O5AfJWflN4=
+github.com/Leoyoungxh/innermod v1.1.0 h1:F5yOBsw5b3MSKRHYvb3JEaHZcHgYX5Bx41AGTCyhawg=
+github.com/Leoyoungxh/innermod v1.1.0/go.mod h1:u6AL1erIYePyVUJl33yikUvFS8XqGbM54O5AfJWflN4=
